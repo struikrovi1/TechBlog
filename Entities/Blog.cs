@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,7 +9,8 @@ namespace Entities
 {
     public class Blog : Base
     {
-        public string Title { get; set; }   
+        [DisplayName("Оглавление")]
+        public string Title { get; set; } = String.Empty;
 
         public string Description { get; set; } 
 

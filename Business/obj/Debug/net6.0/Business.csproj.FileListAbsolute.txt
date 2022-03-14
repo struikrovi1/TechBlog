@@ -10,3 +10,8 @@ C:\Users\user\Desktop\Projects\C#\K205TechBlog\Business\obj\Debug\net6.0\Busines
 C:\Users\user\Desktop\Projects\C#\K205TechBlog\Business\obj\Debug\net6.0\refint\Business.dll
 C:\Users\user\Desktop\Projects\C#\K205TechBlog\Business\obj\Debug\net6.0\Business.pdb
 C:\Users\user\Desktop\Projects\C#\K205TechBlog\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\user\Desktop\Projects\C#\K205TechBlog\Business\bin\Debug\net6.0\Data Access.dll
+C:\Users\user\Desktop\Projects\C#\K205TechBlog\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\user\Desktop\Projects\C#\K205TechBlog\Business\bin\Debug\net6.0\Data Access.pdb
+C:\Users\user\Desktop\Projects\C#\K205TechBlog\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\user\Desktop\Projects\C#\K205TechBlog\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
